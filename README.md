@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swetadas86
-- 👀 I’m interested in software developee
+- 👀 I’m interested in software developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
